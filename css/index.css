@@ -1,0 +1,661 @@
+/*
+* @Author: Dell
+* @Date:   2020-06-13 11:18:24
+* @Last Modified by:   Dell
+* @Last Modified time: 2020-06-14 01:12:42
+*/
+.header-top {
+	height: 200px;
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 0px;
+	background-color: #F0F8FF;
+}
+.weizhi {
+	height: 200px;
+	width: 1200px;
+	margin: 0 auto;
+	position: relative;
+}
+.logo {
+	position: relative;
+	top: 30px;
+	margin-left: 36px;
+}
+.shouye>li {
+	float: left;
+	position: relative;
+	top: -20px;
+	left: 250px;
+}
+.one {
+	margin-left: 5px;
+}
+.shouye a {
+	margin-left: 20px;
+	font-size: 18px;
+    font-weight: 400;
+    font-family: Microsoft YaHei;
+    color: #191970;
+}
+.shouye a:hover {
+	border-bottom: 2px solid red;
+}
+.form {
+	float: left;
+	position: relative;
+	margin-left: 270px;
+	margin-top: -40px;
+}
+.denglu {
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+	font-family: Microsoft YaHei;
+    color: red;
+}
+.zhuce {
+	float: left;
+	margin-top: 11px;
+	margin-left: 120px;
+	position: absolute;
+	font-family: Microsoft YaHei;
+    color: red;
+}
+.kuai {
+	float: left;
+	position: relative;
+	top: -85px;
+	left: 180px;
+	font-size: 14px;
+    font-weight: 400;
+    font-family: Microsoft YaHei;
+    color: #191970;
+}
+.kuai a:hover {
+	border-bottom: 2px solid red;
+}
+.qqq {
+	position: relative;
+	margin: 0 auto;
+	margin-top: -60px;
+	margin-left: 255px; 
+	height: 65px;
+	width: 70px;
+}
+.qq {
+	height: 65px;
+	width: 70px;
+}
+.q {
+	position: relative;
+	left: 5px;
+	color: blue;
+}
+.www{
+	position: relative;
+	margin: 0 auto;
+	margin-top: -65px;
+	margin-left: 365px; 
+	height: 65px;
+	width: 70px;
+}
+.ww{
+	height: 65px;
+	width: 70px;
+}
+.w{
+	position: relative;
+	left: 5px;
+	color: green;
+}
+.bbb{
+	position: relative;
+	margin: 0 auto;
+	margin-top: -65px;
+	margin-left: 475px; 
+	height: 65px;
+	width: 70px;
+}
+.bb{
+	height: 65px;
+	width: 70px;
+}
+.b{
+	position: relative;
+	left: 5px;
+	color: #ff734a;
+}
+.sou-1 {
+	height: 50px;
+	width: 1200px;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	margin-left: 150px;
+}
+.sou-2 {
+	text-align: center;
+	margin-top: 5px;
+	margin-left: 500px;
+	margin: 0 auto;
+}
+.search {
+	height: 38px;
+    width: 800px;
+    float: left;
+    margin-top: 31px;
+    line-height: 35px;
+    padding-left: 19px;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(191,191,191,1);
+    border: 1.5px solid #00A4FF;
+}
+.submit {
+    height: 40px;
+    width: 50px;
+    float: left;
+    text-align: center;
+    margin-top: 31px;
+    border: none;
+    background-color: #00A4FF;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.button {
+	float: left;
+	margin-top: 31px;
+	margin-left: -50px;
+}
+.banner {
+	width: 100%;
+	margin: 0 auto;
+	position: relative;
+	
+	background-color: #F0FFFF;
+}
+.xingtai {
+	width: 1200px;
+	text-align: center;
+	margin: 0 auto;
+
+	position: relative;
+}
+.daxiagu {
+	height: 400px;
+	width: 1200px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+
+
+.x1 {
+     margin-top: 10px;
+    }
+.x2 {
+    width: 1200px;
+    height: 60px;
+    position: relative;
+    margin: 0 auto;
+    background: #E9967A;
+    box-shadow: 0px 2px 3px 0px rgba(118,118,118,0.2);
+}
+.x2>.x3 {
+    top: 21px;
+    position:absolute;
+}
+.x2>.x3>.x4 {
+    width: 125px;
+    text-align: center;
+    display: inline-block;
+}
+.tuijian {
+    color: #00A4FF;
+}
+.x4 {
+    border-right: 1px solid #BFBFBF;
+}
+.x4>a {
+	color: #00FF00;
+	font-weight: bolder;
+}
+.chakanquanbu {
+    top: 21px;
+    right: 61px;
+    color: #0000FF;
+    font-weight: bolder;
+    position: relative;
+    margin-left: 1130px;
+}
+.remen {
+    height: 60px;
+    width: 1200px;
+    position: relative;
+    margin: 0 auto;
+}
+.jing>.dian {
+    top: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family:Microsoft YaHei;
+    color: #8A2BE2;
+    position: absolute;
+}
+.ckqb {
+    top: 25px;
+    right: 0;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: Microsoft YaHei;
+    color: #8A2BE2;
+    position: absolute;
+}
+.hezi-1 {
+    height: 150px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.y1 {
+	float: left;
+	position: relative;
+}
+.y2 {
+	float: left;
+	position: relative;
+}
+.y3 {
+	float: left;
+	position: relative;
+}
+.y4 {
+	float: left;
+	position: relative;
+}
+.y1 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.y2 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.y3 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.y4 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.hezi-2 {
+    height: 150px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.f1 {
+	float: left;
+	position: relative;
+}
+.f2 {
+	float: left;
+	position: relative;
+}
+.f3 {
+	float: left;
+	position: relative;
+}
+.f4 {
+	float: left;
+	position: relative;
+}
+.f1 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.f2 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.f3 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.f4 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.hezi-3 {
+    height: 150px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.z1 {
+	float: left;
+	position: relative;
+}
+.z2 {
+	float: left;
+	position: relative;
+}
+.z3 {
+	float: left;
+	position: relative;
+}
+.z4 {
+	float: left;
+	position: relative;
+}
+.z1 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.z2 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.z3 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.z4 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.hezi-4 {
+    height: 150px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.a1 {
+	float: left;
+	position: relative;
+}
+.a2 {
+	float: left;
+	position: relative;
+}
+.a3 {
+	float: left;
+	position: relative;
+}
+.a4 {
+	float: left;
+	position: relative;
+}
+.a1 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.a2 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.a3 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.a4 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.hezi-5 {
+    height: 150px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.n1 {
+	float: left;
+	position: relative;
+}
+.n2 {
+	float: left;
+	position: relative;
+}
+.n3 {
+	float: left;
+	position: relative;
+}
+.n4 {
+	float: left;
+	position: relative;
+}
+.n1 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.n2 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.n3 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.n4 p {
+	color: white;
+	font-size: 18px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.la {
+	background-color: #F5FFFA;
+}
+.yfz {
+	height: 680px;
+	width: 1200px;
+	margin-top: 130px;
+	margin: 0 auto;
+}
+.xtly {
+    margin-top:350px;
+    margin-left: 20px;
+    position: absolute;
+    font-size: 36px;
+    font-weight: bolder;
+    font-family: Microsoft YaHei;
+    color: #0000CD;
+}
+.jieshao {
+    margin-top: 450px;
+    margin-left: 50px;
+    position: absolute;
+    font-size: 14px;
+    font-weight: bolder;
+    font-family: Sim Sun;
+    color: rgba(102,102,102,1);
+}
+.fangkuai {
+    height: 36px;
+    width: 120px;
+    margin-top: 520px;
+    margin-left: 20px;
+    text-align: center;
+    position: absolute;
+    line-height: 36px;
+    border: 3px solid #BA55D3;
+}
+.fangkuai>a {
+    font-size: 16px;
+    font-weight: bolder;
+    font-family: Microsoft YaHei;
+    color: #FF00FF;
+}
+.yu {
+    margin-top: 360px;
+    margin-left: 300px;
+    position: absolute;
+}
+.yu .fuz {
+    margin-top: 14px;
+}
+.yu .yuz {
+    font-size: 16px;
+    font-weight: bolder;
+    font-family: Microsoft YaHei;
+    color: rgba(51,51,51,1);
+}
+.yu .zho {
+    font-size: 12px;
+    font-weight: bolder;
+    font-family: Sim Sun;
+    color: rgba(51,51,51,1);
+    padding: 8px;
+}
+.gu {
+	float: right;
+	position: relative;
+}
+.changshou {
+	height: 400px;
+	width: 600px;
+}
+.last {
+	text-align: center;
+	margin: 0 auto;
+    background-color: #00BFFF;
+	height: 60px;
+}
+.last>p {
+	color: #FFFFFF;
+	line-height: 60px;
+}
